@@ -1,0 +1,23 @@
+:root {
+  --main: #411beb;
+  --main-hover: #2516ad;
+  --main-writing: #03040c;
+  --secondary-writing: #0c0e1d;
+  --background: #ffffff;
+  --background-2: #f1f1ff;
+}
+
+body {
+  margin: 0;
+}
+
+.cards {
+  width: 100%;
+  height: fit-content;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}

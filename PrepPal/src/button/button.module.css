@@ -1,0 +1,15 @@
+button {
+  width: 120px;
+  height: 40px;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  background-color: var(--main);
+  color: #fff;
+  transition: 0.15s ease;
+}
+
+button:hover {
+  background-color: var(--main-hover);
+}
